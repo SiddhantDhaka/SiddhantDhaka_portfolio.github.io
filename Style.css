@@ -10,6 +10,7 @@ nav {
     display: block;
     overflow: hidden;
     position: fixed;
+    width: 100%;
 }
 
 nav a {
