@@ -11,6 +11,8 @@ nav {
     display: block;
     overflow: hidden;
     position: fixed;
+    margin-top: 5px;
+    margin-left: 5px;
 }
 
 nav a {
@@ -68,7 +70,13 @@ hr {
 
 .bottom-container {
     background-color: #66BFBF;
-    padding: 20px 0 20px;
+    padding: 20px 10px 20px;
+
+
+}
+
+.bottom-container a img {
+    margin: 7px;
 }
 
 .intro {
